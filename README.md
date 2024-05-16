@@ -1,6 +1,6 @@
 # ShopEase
 
-Welcome to ShopEase, your go-to web app for discovering nearby offline shops and uncovering the best deals and offers in your area! You can visit my website [here]([https://im-josepaul.github.io/NewCV/](https://shopease-ruddy.vercel.app/)).
+Welcome to ShopEase, your go-to web app for discovering nearby offline shops and uncovering the best deals and offers in your area! You can visit my website [here](https://im-josepaul.github.io/NewCV/](https://shopease-ruddy.vercel.app/).
 
 ## Overview
 
