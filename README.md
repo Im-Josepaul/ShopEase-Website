@@ -1,7 +1,6 @@
 # ShopEase
 
-Welcome to ShopEase, your go-to web app for discovering nearby offline shops and uncovering the best deals and offers in your area! You can visit my website [here](https://im-josepaul.github.io/NewCV/](https://shopease-ruddy.vercel.app/).
-
+Welcome to ShopEase, your go-to web app for discovering nearby offline shops and uncovering the best deals and offers in your area! You can visit my website [here](https://shopease-ruddy.vercel.app/).
 ## Overview
 
 ShopEase is a convenient tool designed to enhance your offline shopping experience by leveraging your current location to identify nearby shops. Whether you're looking for groceries, clothing, electronics, or any other products, ShopEase helps you find the closest options, ensuring that you never miss out on great deals and offers available in the offline market.
